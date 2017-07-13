@@ -16,7 +16,7 @@ func main() {
 	if len(args) > 0 {
 		url = args[0]
 	}
-	log("GET on", url)
+	log("GET on", url, "\n")
 	startTime := time.Now()
 	resp, err := http.Get(url)
 
