@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a18450-1646-450d-905e-97c9a39aa062" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get.exe" afterPath="$PROJECT_DIR$/get.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get.go" afterPath="$PROJECT_DIR$/get.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +30,9 @@
       <file leaf-file-name="get.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#70#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -257,11 +256,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#70#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
