@@ -22,6 +22,12 @@ func main() {
 	}
 	log("GET on", url, "\n")
 	startTime := time.Now()
+	go func() {
+		time.Sleep(2)
+		log("Timed Out")
+		os.Exit(1)
+	}()
+
 	resp, err := http.Get(url)
 
 	completedTime := time.Now().Sub(startTime)
