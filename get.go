@@ -13,7 +13,7 @@ func main() {
 	// Just to make the call to log shorter
 	log := func(s ...interface{}) { fmt.Println(s...) }
 
-	url := ""
+	var url string
 	if len(args) > 0 {
 		url = args[0]
 	} else {
@@ -36,7 +36,7 @@ func main() {
 	if err != nil {
 		log("There was an error while reading the response")
 	}
-	responseString := ""
+	var responseString string
 	for _, element := range body {
 		responseString += string(element)
 	}
