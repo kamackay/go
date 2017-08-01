@@ -5,12 +5,10 @@ import (
 	"net/http"
 )
 
-func hello(w http.ResponseWriter, r *http.Request) {
-	println("Connection")
-	io.WriteString(w, "Hello world!")
-}
-
 func main() {
-	http.HandleFunc("/", hello)
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		defer println("Connection")
+		io.WriteString(w, "<h1>Hello world</h1><h2>Ver2</h2>")
+	})
 	http.ListenAndServe(":7000", nil)
 }
