@@ -63,9 +63,8 @@ func main() {
 			}
 		}
 	}
-	log("")
-	log(numFiles, "files had tabs")
+	log("\n", numFiles, "files had tabs")
 	completedTime := time.Now().Sub(startTime)
 	// show the user how long it took for the server to respond
-	defer log("\n", completedTime.String())
+	defer log(completedTime.String())
 }
