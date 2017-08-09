@@ -7,6 +7,7 @@ import (
 	"path"
 	"regexp"
 	"time"
+	"strconv"
 )
 
 func in(a byte, list []byte) bool {
@@ -46,7 +47,7 @@ func main() {
 		match = args[1]
 	}
 
-	numFiles := 0
+	numFiles, bytesRead := 0, 0
 
 	log("Searching for tabs in", dir)
 	for _, f := range getFiles(dir) {
@@ -60,10 +61,19 @@ func main() {
 					log("Tab in", f)
 					numFiles++
 				}
+				bytesRead += len(data)
 			}
 		}
 	}
+	unit := 0
+	fBytes := float64(bytesRead)
+	for fBytes > 1024 {
+		fBytes /= 1024
+		unit++
+	}
 	log("\n", numFiles, "files had tabs")
+	log("\t", strconv.FormatFloat(fBytes, 'f', 4, 64),
+		[]string{"bytes", "KB", "MB", "GB", "TB"}[unit], "read")
 	completedTime := time.Now().Sub(startTime)
 	// show the user how long it took for the server to respond
 	defer log("", completedTime.String())
