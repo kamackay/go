@@ -25,24 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="findTabs.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/findTabs.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-              <folding>
-                <element signature="e#14#76#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="post.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
               <caret line="44" column="63" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="63" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findTabs.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/findTabs.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="68" column="18" lean-forward="false" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+              <folding>
+                <element signature="e#14#76#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +71,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1088" />
+    <option name="x" value="-1700" />
     <option name="y" value="-582" />
-    <option name="width" value="1096" />
-    <option name="height" value="1936" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,7 +101,7 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/keith/go/post.go&#10;find&#9;FILE&#9;file://C:/keith/go/findTabs.go&#10;post&#9;FILE&#9;file://C:/keith/go/post.go" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/keith/go/findTabs.go&#10;find&#9;FILE&#9;file://C:/keith/go/findTabs.go&#10;post&#9;FILE&#9;file://C:/keith/go/post.go" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -421,7 +421,7 @@
     <entry file="file://$PROJECT_DIR$/findTabs.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
-          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+          <caret line="68" column="18" lean-forward="false" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
           <folding>
             <element signature="e#14#76#0" expanded="true" />
           </folding>
