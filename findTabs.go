@@ -49,7 +49,7 @@ func main() {
 
 	numFiles, bytesRead := 0, 0
 
-	log("Searching for tabs in", dir)
+	log("Searching for tabs in", dir, "in files matching", match)
 	for _, f := range getFiles(dir) {
 		r, err := regexp.MatchString(match, f)
 		if r && err == nil {
