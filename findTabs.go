@@ -46,7 +46,6 @@ func main() {
 	if len(args) > 1 {
 		match = args[1]
 	}
-
 	numFiles, bytesRead := 0, 0
 
 	log("Searching for tabs in", dir, "in files matching", match)
