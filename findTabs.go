@@ -26,9 +26,9 @@ func getFiles(dir string) []string {
 		if !f.IsDir() {
 			files = append(files, path.Join(dir, f.Name()))
 		} else {
-			for _, subFile := range getFiles(path.Join(dir, f.Name())) {
-				files = append(files, subFile)
-			}
+			sub := getFiles(path.Join(dir, f.Name()))
+			files = append(files, sub...)
+			/*for _, subFile := range getFiles(path.Join(dir, f.Name())) { files = append(files, subFile) }/**/
 		}
 	}
 	return files
