@@ -53,6 +53,21 @@ func main() {
 			}
 			log("\t", fSize, []string{"bytes", "KB", "MB", "GB", "TB"}[unit])
 			break
+		case "delete":
+			// Delete a file or folder
+			path := args[1]
+			log("Deleting", path)
+			info, err := os.Stat(path)
+			if err != nil {
+				log("Error getting file information for", path)
+				panic(err)
+			}
+			if info.IsDir() {
+				os.RemoveAll(path)
+			} else {
+				// File
+				os.Remove(path)
+			}
 		default:
 			log("Unrecognized Command:", os.Args[1]) // Print the original command
 			break
