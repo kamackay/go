@@ -6,9 +6,29 @@ import (
 	"os"
 	"path"
 	"path/filepath"
+	"sort"
+	"strconv"
 	"strings"
 	"time"
 )
+
+type ComputedFile struct {
+	info os.FileInfo
+	size int64
+}
+
+func contains(arr []string, s string) bool {
+	cleanString := func(st string) string {
+		return strings.ToLower(strings.Trim(st, " "))
+	}
+	lowerS := cleanString(s)
+	for _, a := range arr {
+		if lowerS == cleanString(a) {
+			return true
+		}
+	}
+	return false
+}
 
 func dirSize(path string) (int64, error) {
 	var size int64
@@ -33,40 +53,66 @@ func prettySize(size int64) string {
 		fSize /= 1024
 		unit++
 	}
-	return fmt.Sprint(fSize, " ", []string{"bytes", "KB", "MB", "GB", "TB", "PB"}[unit])
+	return fmt.Sprint(
+		strconv.FormatFloat(fSize, 'f', 2, 64),
+		" ",
+		[]string{"bytes", "KB", "MB", "GB", "TB", "PB"}[unit])
+}
+
+func calculateSize(cf ComputedFile, dir string) ComputedFile {
+	f := cf.info
+	if cf.size > 0 {
+		return cf
+	}
+	if f.IsDir() {
+		size, _ := dirSize(path.Join(dir, f.Name()))
+		cf.size = size
+	} else {
+		cf.size = f.Size()
+	}
+	return cf
 }
 
 func main() {
-	// args := os.Args[1:]
-	startTime := time.Now()
-
 	log := func(s ...interface{}) { fmt.Println(s...) }
+	args := os.Args[1:]
 
+	sortBySize := contains(args, "--sort")
+	startTime := time.Now()
 	dir, _ := os.Getwd()
+	files, _ := ioutil.ReadDir(dir)
+
+	var computedFiles []ComputedFile
 
 	log(dir)
-
-	files, _ := ioutil.ReadDir(dir)
 
 	maxLen := 0
 
 	for _, f := range files {
-		l := len(f.Name())
-		if l > maxLen {
-			maxLen = l
+		length := len(f.Name())
+		if length > maxLen {
+			maxLen = length + 5
 		}
+		computedFiles = append(computedFiles, ComputedFile{f, 0})
 	}
 
-	maxLen += 5
+	if sortBySize {
+		sort.Slice(computedFiles, func(a, b int) bool {
+			sizeA := calculateSize(computedFiles[a], dir)
+			sizeB := calculateSize(computedFiles[b], dir)
+			computedFiles[a] = sizeA
+			computedFiles[b] = sizeB
+			return sizeA.size > sizeB.size
+		})
+	}
 
-	for _, f := range files {
-		var size int64
-		if f.IsDir() {
-			size, _ = dirSize(path.Join(dir, f.Name()))
-		} else {
-			size = f.Size()
-		}
-		log("\t", f.Name(), repeatChar("-", maxLen-len(f.Name())), prettySize(size))
+	for _, f := range computedFiles {
+		var calculated = calculateSize(f, dir)
+
+		log(repeatChar(" ", 2),
+			calculated.info.Name(),
+			repeatChar("-", maxLen-len(calculated.info.Name())),
+			prettySize(calculated.size))
 	}
 
 	defer log("\nFinished in", time.Now().Sub(startTime).String())
