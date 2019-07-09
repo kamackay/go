@@ -49,16 +49,24 @@ func checkNotExtension(filename string, extensions []string) bool {
 	return false
 }
 
+func readFile(filename string) (string, error) {
+	buf, err := ioutil.ReadFile(filename)
+	if err != nil {
+		return "", err
+	}
+	s := string(buf)
+	return s, nil
+}
+
 func fixFile(filename string) (bool, int, int) {
 	if checkNotExtension(filename, []string{"exe", "jar", "apk", "dex"}) {
 		return false, 0, 0
 	}
-	buf, err := ioutil.ReadFile(filename)
 
+	s, err := readFile(filename)
 	lineRegx := regexp.MustCompile(`(\n|\r\n)`)
 
 	if err == nil {
-		s := string(buf)
 		if strings.Contains(s, "\r\n") {
 			fmt.Println(filename)
 			fmt.Println("\tHad Windows Newlines")

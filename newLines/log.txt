@@ -1,0 +1,1203 @@
+Fixing newlines in c:\dev\keith\fenix\ for files matching .*
+c:\dev\keith\fenix\.git\objects\pack\pack-2d37ca8e393e2264390cdf92b74ef05559dbb3e1.idx
+	Had Windows Newlines
+open c:\dev\keith\fenix\.git\objects\pack\pack-2d37ca8e393e2264390cdf92b74ef05559dbb3e1.idx: Access is denied.
+c:\dev\keith\fenix\.git\objects\pack\pack-2d37ca8e393e2264390cdf92b74ef05559dbb3e1.pack
+	Had Windows Newlines
+open c:\dev\keith\fenix\.git\objects\pack\pack-2d37ca8e393e2264390cdf92b74ef05559dbb3e1.pack: Access is denied.
+c:\dev\keith\fenix\.gitattributes
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\CODEOWNERS
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\---bug-report.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\---feature-request.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\--a-b-experiment-request.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\--epic.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\--telemetry-request.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\ISSUE_TEMPLATE\--user-story.md
+	Had Windows Newlines
+c:\dev\keith\fenix\.github\PULL_REQUEST_TEMPLATE
+	Had Windows Newlines
+c:\dev\keith\fenix\.gitignore
+	Had Windows Newlines
+c:\dev\keith\fenix\.taskcluster.yml
+	Had Windows Newlines
+c:\dev\keith\fenix\CHANGELOG.md
+	Had Windows Newlines
+c:\dev\keith\fenix\CODE_OF_CONDUCT.md
+	Had Windows Newlines
+c:\dev\keith\fenix\LICENSE
+	Had Windows Newlines
+c:\dev\keith\fenix\README.md
+	Had Windows Newlines
+c:\dev\keith\fenix\app\.gitignore
+	Had Windows Newlines
+c:\dev\keith\fenix\app\build.gradle
+	Had Windows Newlines
+c:\dev\keith\fenix\app\lint.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\metrics.yaml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\pings.yaml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\proguard-rules.pro
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\FirefoxTestApplication.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\FirefoxTestRunner.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\helpers\HomeActivityTestRule.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\helpers\Matchers.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\helpers\ext\ViewInteraction.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\HomeScreenTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\ThreeDotMenuTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\robots\BrowserRobot.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\robots\HomeScreenRobot.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\robots\LibraryRobot.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\robots\SettingsRobot.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\androidTest\java\org\mozilla\fenix\ui\robots\ThreeDotMenuRobot.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\AndroidManifest.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\ic_launcher-web.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\java\org\mozilla\fenix\DebugFenixApplication.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\drawable-v24\ic_launcher_foreground.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\drawable\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-anydpi-v26\ic_launcher.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-hdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-hdpi\ic_launcher_foreground.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-hdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-mdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-mdpi\ic_launcher_foreground.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-mdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxxhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\AndroidManifest.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\ic_launcher-web.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\AppRequestInterceptor.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\BrowsingModeManager.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\Config.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\Experiments.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\FenixApplication.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\FenixViewModelProvider.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\HomeActivity.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\IntentReceiverActivity.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ThemeManager.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\browser\BrowserFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\browser\BrowserPerformanceTestActivity.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\browser\BrowserToolbarBottomBehavior.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\browser\BrowserToolbarTopBehavior.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\CollectionCreationComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\CollectionCreationTabListAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\CollectionCreationUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\CreateCollectionFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\CreateCollectionViewModel.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\collections\SaveCollectionListAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Analytics.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\BackgroundServices.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Components.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Core.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\FenixSnackbar.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\FindInPageIntegration.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\NotificationManager.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\PermissionStorage.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Search.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Services.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\TabCollectionStorage.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\UseCases.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\Utilities.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\ActivationPing.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\AdjustMetricsService.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\GleanMetricsService.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\LeanplumMetricsService.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\Metrics.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\metrics\MozillaProductDetector.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\DefaultToolbarMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\MenuPresenter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\TabCounter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\TabCounterToolbarButton.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\ToolbarComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\ToolbarIntegration.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\ToolbarMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\components\toolbar\ToolbarUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\crashes\CrashReporterFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\customtabs\CustomTabActivity.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\customtabs\CustomTabToolbarMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\customtabs\CustomTabsIntegration.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\customtabs\CustomTabsService.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\ExceptionDomains.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\ExceptionsAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\ExceptionsComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\ExceptionsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\ExceptionsUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\viewholders\ExceptionsDeleteButtonViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\viewholders\ExceptionsHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\exceptions\viewholders\ExceptionsListItemViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\Context.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\Fragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\Int.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\Log.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\Resources.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\String.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\ext\View.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\HomeFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\HomeMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\HomeScreenViewModel.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\ImageViewTopCrop.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\SearchView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\SessionBottomSheetFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\SessionControlAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\SessionControlComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\SessionControlUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\SwipeToDeleteCallback.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\CollectionHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\CollectionViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\NoContentMessageViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\PrivateBrowsingDescriptionViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\SaveTabGroupViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\TabHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\TabInCollectionViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\TabViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingFinishViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingFirefoxAccountViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingPrivacyNoticeViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingPrivateBrowsingViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingSectionHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingThemePickerViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\home\sessioncontrol\viewholders\onboarding\OnboardingTrackingProtectionViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\lib\Do.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\LibraryFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\LibraryListItem.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarkAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarkComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarkFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarkItemMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarkUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\BookmarksSharedViewModel.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\SignInComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\SignInUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\addfolder\AddBookmarkFolderFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\edit\EditBookmarkFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\selectfolder\SelectBookmarkFolderAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\bookmarks\selectfolder\SelectBookmarkFolderFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\HistoryAdapter.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\HistoryComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\HistoryFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\HistoryItemMenu.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\HistoryUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\viewholders\HistoryDeleteButtonViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\viewholders\HistoryHeaderViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\library\history\viewholders\HistoryListItemViewHolder.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\onboarding\FenixOnboarding.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\onboarding\OnboardingRadioButton.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\quickactionsheet\QuickActionComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\quickactionsheet\QuickActionSheet.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\quickactionsheet\QuickActionUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\SearchFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\SearchLayouts.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\awesomebar\AwesomeBarComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\awesomebar\AwesomeBarUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\awesomebar\ShortcutEngineManager.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\search\awesomebar\ShortcutsSuggestionProvider.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\AboutFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\AccessibilityFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\AccountPreference.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\AccountProblemFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\AccountSettingsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\DataChoicesFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\DefaultBrowserPreference.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\DeleteBrowsingDataFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\DeleteBrowsingDataItem.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\Extensions.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\PairFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\PairInstructionsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\PhoneFeature.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\RadioButtonPreference.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\RadioSearchEngineListPreference.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SearchEngineFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SearchEngineListPreference.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SettingsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SitePermissionsDetailsExceptionsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SitePermissionsExceptionsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SitePermissionsFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SitePermissionsManageExceptionsPhoneFeatureFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SitePermissionsManagePhoneFeatureFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\SupportUtils.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\TextPercentageSeekBarPreference.java
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\ThemeFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\TrackingProtectionFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\TurnOnSyncFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\quicksettings\QuickSettingsComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\quicksettings\QuickSettingsSheetDialogFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\settings\quicksettings\QuickSettingsUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\share\AccountDevicesShareView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\share\AppShareView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\share\ShareComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\share\ShareFragment.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\share\ShareUIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\utils\ClearableEditText.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\utils\ItsNotBrokenSnack.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\utils\Settings.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\java\org\mozilla\fenix\utils\Undo.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\anim\fade_in.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\anim\fade_out.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\color\state_list_text_color.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\color\toggle_text_color.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\ic_logo_wordmark_private.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\ic_status_logo.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_01.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_02.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_03.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_06.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_07.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-hdpi\sessions_08.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\ic_logo_wordmark_private.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\onboarding_dark_theme.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\onboarding_light_theme.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_01.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_02.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_03.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_06.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_07.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-mdpi\sessions_08.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-night-hdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-night-mdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-night-xhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-night-xxhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-night-xxxhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\ic_logo_wordmark_private.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\ic_status_logo.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\onboarding_dark_theme.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\onboarding_light_theme.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_01.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_02.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_03.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_06.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_07.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xhdpi\sessions_08.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\ic_logo_wordmark_private.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_01.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_02.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_03.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_06.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_07.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxhdpi\sessions_08.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\ic_logo_wordmark_normal.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\ic_logo_wordmark_private.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\ic_status_logo.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_01.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_02.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_03.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_06.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_07.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable-xxxhdpi\sessions_08.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\add_tabs_to_collection_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\bookmark_two_state.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\bookmarks_circle_background_filled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\bookmarks_circle_background_outline.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\bottom_sheet_dialog_fragment_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\button_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\crash_reporter_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\device_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\empty_session_control_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\favicon_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\fenix_error_1.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\fenix_snackbar_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\home_header_shadow.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\home_search_background_dark.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\home_search_background_dark_no_border.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\home_search_background_normal.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_accessibility.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_account_warning.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_alert.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_bookmark_filled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_bookmark_outline.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_camera.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_camera_disabled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_chevron_down.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_chevron_up.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_clear.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_close.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_collections_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_customize.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_data_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_delete.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_download.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_drawer_pull_tab.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_edit.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_energy.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_error_session_crashed.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_folder_icon.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_formfill.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_help.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_history.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_hollow_share.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_home.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_info.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_internet.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_language.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_launcher_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_library.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_link.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_location.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_location_disabled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_login.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_menu.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_microphone.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_microphone_disabled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_new.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_notification.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_notifications_disabled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_onboarding_avatar_anonymous.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_onboarding_firefox_accounts.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_onboarding_privacy_notice.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_onboarding_private_browsing.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_onboarding_tracking_protection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_permission.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_private_browsing.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_qr.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_readermode.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_report_issues.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_screenshots.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_search.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_send.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_session_restore.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_session_thumbnail_placeholder_greyscale.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_sessions_intro.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_settings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_shortcuts.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_sign_in.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_tab_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_tab_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_tabs.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_tracking_protection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\ic_tracking_protection_disabled.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\library_icon_downloads_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\library_icon_history_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\library_icon_reading_list_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\library_icon_screenshots_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\library_icon_sessions_circle_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\mozac_ui_tabcounter_box.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\notification_indicator.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\onboarding_button_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\onboarding_card_background_dark.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\onboarding_card_background_light.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\onboarding_rounded_bottom_corners_ripple.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\private_browsing_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\private_home_background_gradient.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\progress_gradient.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\quick_action_icon_appearance.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\quick_action_icon_close.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\quick_action_icon_read.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\quick_action_icon_read_with_notification.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\quick_action_icon_share.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\reader_two_state.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\reader_two_state_with_notification.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\rounded_all_corners.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\rounded_bottom_corners.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\rounded_ripple.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\rounded_top_corners.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\scrim_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\search_pill_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\search_pill_background_unselected.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\search_pill_drawable_button_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\search_url_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\session_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\session_border.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\session_list_empty_bg.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\session_sheet_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\sign_in_preference_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\tab_in_collection_last_swipe_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\tab_in_collection_swipe_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\toolbar_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\drawable\url_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\account_preference.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\account_share_list_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\activity_home.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\app_share_list_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\bookmark_row.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\collection_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\collection_home_list_row.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\collection_tab_list_row.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\collections_list_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_awesomebar.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_bookmark.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_collection_creation.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_collection_creation_name_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_collection_creation_select_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_exceptions.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_history.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_permissions_blocked_by_android.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_quick_action_sheet.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_search.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_session_control.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_share.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\component_sign_in.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\delete_browsing_data_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\delete_exceptions_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\delete_history_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\exception_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\exceptions_description.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fenix_snackbar.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_about.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_add_bookmark_folder.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_bookmark.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_browser.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_crash_reporter.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_create_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_delete_browsing_data.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_edit_bookmark.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_exceptions.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_history.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_home.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_library.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_manage_site_permissions_exceptions_feature_phone.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_manage_site_permissions_feature_phone.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_pair.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_pair_instructions.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_quick_settings_dialog_sheet.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_search.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_select_bookmark_folder.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_share.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_site_permissions_exceptions.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\fragment_site_permissions_exceptions_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\history_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\history_list_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\layout_clear_permission_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\layout_percentage_seek_bar.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\layout_quick_action_sheet.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\layout_url_background.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\library_list_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\mozac_browser_menu_item_switch.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\mozac_ui_tabcounter_layout.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\no_content_message.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_finish.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_firefox_account.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_privacy_notice.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_private_browsing.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_section_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_theme_picker.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\onboarding_tracking_protection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\preference_default_browser.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\preference_search_engine_chooser.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\preference_widget_radiobutton.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\private_browsing_description.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\save_tab_group_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\search_engine_radio_button.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\session_bottom_sheet.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\session_item.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\session_list_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\sign_in_preference.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\tab_header.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\tab_in_collection.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\tab_list_row.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\layout\toolbar_selected_bookmarks.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\bookmarks_add_folder.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\bookmarks_edit.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\bookmarks_select_folder.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\bookmarks_select_multi.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\history_select_multi.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\menu\library_menu.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-hdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-mdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxhdpi\ic_status_logo.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\navigation\nav_graph.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\raw\high_risk_error_style.css
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\raw\low_and_medium_risk_error_style.css
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\raw\low_risk_error_pages.html
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\raw\medium_and_high_risk_error_pages.html
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-de\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-es-rES\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-es\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-fr\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-it\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-ja\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-ko\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-night\bools.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-night\colors.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-ru\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-v23\styles.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-v27\styles.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-v28\bools.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-zh-rCN\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values-zh-rTW\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\attrs.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\bools.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\colors.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\dimens.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\permissions_settings_strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\preference_keys.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\static_strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\strings.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\values\styles.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\accessibility_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\account_settings_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\data_choices_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\home_scene.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\search_engine_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\site_permissions_details_exceptions_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\site_permissions_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\sync_problem.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\theme_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\tracking_protection_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\main\res\xml\turn_on_sync_preferences.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\TestApplication.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\TestUtils.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\components\TestComponents.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\components\TestCore.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\components\metrics\ActivationPingTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\library\bookmarks\BookmarkAdapterTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\library\bookmarks\BookmarkFragmentTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\library\bookmarks\BookmarkViewModelTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\app\src\test\java\org\mozilla\fenix\library\history\HistoryViewModelTest.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\build.gradle
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\proguard-rules.pro
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\AndroidManifest.xml
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\java\org\mozilla\fenix\mvi\ActionBusFactory.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\java\org\mozilla\fenix\mvi\Concepts.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\java\org\mozilla\fenix\mvi\UIComponent.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\java\org\mozilla\fenix\mvi\UIView.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\architecture\src\main\java\org\mozilla\fenix\test\OpenClass.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\docker\Dockerfile
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\gradle\versionCode.gradle
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\decision_task.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\helper\get-secret.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\lib\chain_of_trust.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\lib\gradle.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\lib\tasks.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\lib\util.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\lib\variant.py
+	Had Windows Newlines
+c:\dev\keith\fenix\automation\taskcluster\schedule_nightly_graph.py
+	Had Windows Newlines
+c:\dev\keith\fenix\build.gradle
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\.gradle\buildOutputCleanup\cache.properties
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\build.gradle.kts
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\build\tmp\jar\MANIFEST.MF
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\src\main\java\Config.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\src\main\java\Dependencies.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\buildSrc\src\main\java\Gecko.kt
+	Had Windows Newlines
+c:\dev\keith\fenix\certificates\fenix_beta.pem
+	Had Windows Newlines
+c:\dev\keith\fenix\certificates\fenix_nightly.pem
+	Had Windows Newlines
+c:\dev\keith\fenix\certificates\fenix_production.pem
+	Had Windows Newlines
+c:\dev\keith\fenix\config\detekt.yml
+	Had Windows Newlines
+c:\dev\keith\fenix\config\pre-push-recommended.sh
+	Had Windows Newlines
+c:\dev\keith\fenix\docs\activation.md
+	Had Windows Newlines
+c:\dev\keith\fenix\docs\certificates.md
+	Had Windows Newlines
+c:\dev\keith\fenix\docs\mma.md
+	Had Windows Newlines
+c:\dev\keith\fenix\docs\telemetry.md
+	Had Windows Newlines
+c:\dev\keith\fenix\gradle.properties
+	Had Windows Newlines
+c:\dev\keith\fenix\gradle\wrapper\gradle-wrapper.properties
+	Had Windows Newlines
+c:\dev\keith\fenix\gradlew
+	Had Windows Newlines
+c:\dev\keith\fenix\gradlew.bat
+	Had Windows Newlines
+c:\dev\keith\fenix\l10n.toml
+	Had Windows Newlines
+c:\dev\keith\fenix\settings.gradle
+	Had Windows Newlines
+Checked a total of 714 files, and corrected 596 files
+	 24.9429 MB Read
+	 2.7846 MB Written
+ 6.5435517s
