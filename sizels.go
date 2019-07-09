@@ -78,6 +78,7 @@ func main() {
 	args := os.Args[1:]
 
 	sortBySize := contains(args, "--sort")
+	excludeEmpty := contains(args, "--no-empty")
 	startTime := time.Now()
 	dir, _ := os.Getwd()
 	files, _ := ioutil.ReadDir(dir)
@@ -109,10 +110,12 @@ func main() {
 	for _, f := range computedFiles {
 		var calculated = calculateSize(f, dir)
 
-		log(repeatChar(" ", 2),
-			calculated.info.Name(),
-			repeatChar("-", maxLen-len(calculated.info.Name())),
-			prettySize(calculated.size))
+		if calculated.size > 0 || !excludeEmpty {
+			log(repeatChar(" ", 2),
+				calculated.info.Name(),
+				repeatChar("-", maxLen-len(calculated.info.Name())),
+				prettySize(calculated.size))
+		}
 	}
 
 	defer log("\nFinished in", time.Now().Sub(startTime).String())
