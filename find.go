@@ -1,9 +1,8 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
-	"io"
+	"github.com/bclicn/color"
 	"io/ioutil"
 	"os"
 	"path"
@@ -11,16 +10,19 @@ import (
 	"regexp"
 	"sort"
 	"strconv"
-	"strings"
 	"time"
 )
 
 const doc = `
 Find Usage:
-	- find <string> (defaults to working path, search all files)
-	- find <string> <path> (defaults to search all files)
-	- find <string> <path> <filePattern (regex)>
+	- find <string (regex)> (defaults to working path, search all files)
+	- find <string (regex)> <path> (defaults to search all files)
+	- find <string (regex)> <path> <filePattern (regex)>
 `
+
+var (
+	newLines, _ = regexp.Compile("(\\n|\\r\\n)")
+)
 
 func getAllFiles(dir string) []string {
 	var files []string
@@ -42,12 +44,12 @@ func main() {
 	args := os.Args[1:]
 	startTime := time.Now()
 	dir, _ := os.Getwd()
-	find := ""
+	findStr := ""
 	match := ".*"
 	if len(args) > 0 {
-		find = args[0]
+		findStr = args[0]
 	}
-	if find == "--help" || find == "--h" || find == "" {
+	if findStr == "--help" || findStr == "--h" || findStr == "" {
 		log(doc)
 		return
 	}
@@ -61,7 +63,10 @@ func main() {
 
 	totalFiles := 0
 
-	log("Searching for '"+find+"' in", dir, "in files matching", match)
+	find := regexp.MustCompile(".*" + findStr + ".*")
+	originRegex := regexp.MustCompile(findStr)
+
+	log("Searching for '"+findStr+"' in", dir, "in files matching", match)
 	files := getAllFiles(dir)
 	sort.Strings(files)
 	for _, f := range files {
@@ -71,9 +76,12 @@ func main() {
 			if r && err == nil {
 				totalFiles++
 				func() {
-					found, bytes := oldContains(filename, find)
-					if found {
-						log("Found in", filename)
+					found, bytes := newContains(filename, find)
+					if len(found) > 0 {
+						log("Found in", color.Green(filename), "("+humanizeBytes(bytes)+")")
+						for _, line := range found {
+							log("\t", originRegex.ReplaceAllStringFunc(line, color.Blue))
+						}
 						numFiles++
 					}
 					bytesRead += bytes
@@ -81,72 +89,40 @@ func main() {
 			}
 		}
 	}
-	unit := 0
-	fBytes := float64(bytesRead)
-	for fBytes > 1024 {
-		fBytes /= 1024
-		unit++
-	}
+
 	log("\n", numFiles, "of", totalFiles, "files contained the pattern")
-	log("\t", strconv.FormatFloat(fBytes, 'f', 4, 64),
-		[]string{"bytes", "KB", "MB", "GB", "TB"}[unit], "read")
+	log("\t", humanizeBytes(bytesRead), "read")
 	completedTime := time.Now().Sub(startTime)
 	// show the user how long it took for the server to respond
 	defer log("", completedTime.String())
 }
 
-/**
- * Read file into memory and search for the string
- */
-func oldContains(filename string, find string) (bool, int) {
+func humanizeBytes(bytes int) string {
+	unit := 0
+	fBytes := float64(bytes)
+	for fBytes > 1024 {
+		fBytes /= 1024
+		unit++
+	}
+	return strconv.FormatFloat(fBytes, 'f', 4, 64) + " " +
+		[]string{"bytes", "KB", "MB", "GB", "TB"}[unit]
+}
+
+func newContains(filename string, find *regexp.Regexp) ([]string, int) {
+	lines := make([]string, 0)
 	data, err := ioutil.ReadFile(filename)
 	if err != nil {
-		return false, 0
+		return []string{}, 0
 	} else {
-		return subContains(string(data), find), len(data)
-	}
-}
-
-func newContains(filename string, find string) (bool, int) {
-	file, err := os.Open(filename)
-	defer func() {
-		if file != nil {
-			err := file.Close()
-			if err != nil {
-				panic(err)
+		for _, line := range newLines.Split(string(data), -1) {
+			if subContains(line, find) {
+				lines = append(lines, line)
 			}
 		}
-	}()
-	if err != nil {
-		fmt.Println("Could not read file")
-		return false, 0
+		return lines, len(data)
 	}
-
-	reader := bufio.NewReader(file)
-	var builder strings.Builder
-	length := 0
-	for {
-		line, isPrefix, err := reader.ReadLine()
-		builder.WriteString(string(line) + "\n")
-		length += len(line)
-
-		//builder.WriteString(string(line))
-		if subContains(builder.String(), find) {
-			return true, length
-		}
-
-		if !isPrefix || err == io.EOF {
-			break
-		} else if err != nil {
-			fmt.Println(err)
-		}
-	}
-	return subContains(builder.String(), find), length
 }
 
-/**
- * Actually check a string to see if the substring exists in it
- */
-func subContains(content string, find string) bool {
-	return strings.Contains(content, find)
+func subContains(content string, find *regexp.Regexp) bool {
+	return find.MatchString(content)
 }
